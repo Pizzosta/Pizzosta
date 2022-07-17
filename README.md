@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pizzosta
-- 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning Front End Development
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Front End Development 
 - 💞️ I’m looking for mentor help share resources and for future collaborations
 - 📫 How to reach me - i'm everywhere
 
